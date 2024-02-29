@@ -1,0 +1,10 @@
+table th{
+    text-align: center;
+    color: #FFF !important;
+    background-color: #0d6efd !important;
+}
+
+table td{
+    text-align: center;
+    color: #5e5e5e !important;
+}
